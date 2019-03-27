@@ -4,7 +4,11 @@ export default class Footer extends Component {
     render() {
         return (
             <div>
-            	This Footer
+            	{/*
+					<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+	            		<p>This Footer</p>
+	            	</nav>
+            	*/}
             </div>
         );
     }

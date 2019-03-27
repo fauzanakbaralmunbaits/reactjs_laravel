@@ -4,7 +4,11 @@ export default class About extends Component {
     render() {
         return (
             <div>
-            	This About
+            	<div className="card">
+				  <div className="card-body">
+				    About.
+				  </div>
+				</div>
             </div>
         );
     }

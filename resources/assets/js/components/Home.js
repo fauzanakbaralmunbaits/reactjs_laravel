@@ -4,7 +4,11 @@ export default class Home extends Component {
     render() {
         return (
             <div>
-            	This Home
+            	<div className="card">
+				  <div className="card-body">
+				    Home.
+				  </div>
+				</div>
             </div>
         );
     }
